@@ -1,6 +1,6 @@
 format 1
-seq 3
-plugin urah.koh2.net URAH_Net 0.4.0 31804 toggle URAH_Net-v0.4.0/URAH_Net-v0.4.0.zip sha256:a79c24ff24ca44d91a0516b5a54b991ce80390800312799605c036a358c4ecdf
+seq 4
+plugin urah.koh2.net URAH_Net 0.4.1 31804 toggle URAH_Net-v0.4.1/URAH_Net-v0.4.1.zip sha256:8a91e591abddee485db3098ea8e78a79fe6d23e639eb77e4925b717b29431dca
 desc urah.koh2.net en Fixes multiplayer lobby problems: grey players reconnect by themselves, long mod lists arrive in full, mod order does not matter, reordered buildings show right away, lobbies open after a long game.
 desc urah.koh2.net de Behebt Probleme in Mehrspieler-Lobbys: graue Spieler verbinden sich selbst neu, lange Mod-Listen kommen vollständig an, die Mod-Reihenfolge ist egal, umgestellte Gebäude erscheinen sofort, Lobbys öffnen auch nach einem langen Spiel.
 plugin urah.koh2.hover URAH_Hover 0.3.0 31804 toggle URAH_Hover-v0.3.0/URAH_Hover-v0.3.0.zip sha256:bb6e3ec1b7fcd3608b890caa3338f68ed7a29d224dcdc3e96a6cfdc4c0253b1a
